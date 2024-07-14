@@ -1,10 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,29 +19,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fazer um avatar ler um ebook com o tema   "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas"
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT-GPT  --> para criar um ebook completo com 5 capítulos
+D-ID -------> para criar o avatar e a voz 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o chatGPT criar um ebook com o tema "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas", foi criado a introdução e 5 capítulos.
+depois disso usei o D-ID para criar o avatar e inseri o ebook criado pelo chat GPT, escolhi a voz e mandei o avatar ler a parte da introdução do ebook
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=7768aaadf9310b9da94c2c4f5532ba88&utm_source=copy
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
